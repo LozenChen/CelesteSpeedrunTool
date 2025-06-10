@@ -1,3 +1,7 @@
+This repository is no longer used! Currently we're using https://github.com/DemoJameson/Celeste.SpeedrunTool for development
+
+=====================================
+
 # Celeste Speedrun Tool
 
 [中文说明](./README_CN.md)
